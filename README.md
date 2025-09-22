@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmad Abdullatif
 Software engineer
 -----------------
 
-I’m an electrical and computer engineering student at Suez Canal University, learning software and embedded systems. I enjoy building projects that connect hardware and software, and I’m currently improving my skills in C++, Python, and Linux.
+I’m an electrical and computer engineering student at Suez Canal University, learning software and embedded systems. I enjoy building projects that connect hardware and software, and I’m currently improving my skills in C++, Yocto, and Linux.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [Ahmedabdellatef3846@gmail.com](mailto:Ahmedabdellatef3846@gmail.com)
